@@ -1,0 +1,1 @@
+# desafio-solutis-aws-localstack
